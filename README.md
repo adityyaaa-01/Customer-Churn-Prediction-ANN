@@ -58,6 +58,7 @@ The ANN is built using **TensorFlow** and **Keras**, with data preprocessing, tr
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:  
- ```bash
- git clone https://github.com/yourusername/Customer-Churn-ANN.git
+1. Clone this repository
+2. Install required packages (scikit-learn, matplotlib, etc.)
+3. Open the notebook in Jupyter or Colab
+4. Run all cells
